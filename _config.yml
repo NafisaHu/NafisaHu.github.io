@@ -16,8 +16,11 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home"}
-  - {file: "README.md", title: "About Me"}
+  - {file: "README.md", title: "Background"}
+  - {file: "/NafisaHussain_Resume_Fall2022.docx.pdf", title: "Resume"}
+  - {file: "README.md", title: "Projects"}
+  - {file: "README.md", title: "Contact"}
+  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:nahussai@ucsc.edu"}
