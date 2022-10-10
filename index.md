@@ -3,4 +3,4 @@ layout: page
 title: "Home"
 ---
 
-Welcome! I am a graduate student at the University of California Santa Cruz in the Computer Science and Engineering Department. My research interests span in the field of Natural Language Procesesing and Computer Vision for better replicating and understanding everyday language and conversation as well as  body language.
+Welcome! I am a graduate student at the [University of California, Santa Cruz](https://www.ucsc.edu/) in the [Computer Science and Engineering Department](https://engineering.ucsc.edu/departments/computer-science-and-engineering). I recieved by B.S. in Computer Science from the University of California, Santa Cruz. My research interests span in the field of Natural Language Procesesing and Computer Vision for better interpretation and understanding of everyday conversation as well as body language.
