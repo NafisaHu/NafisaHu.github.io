@@ -24,5 +24,3 @@ UCSC ASSIST Lab - Research Assistant (September 2020 - June 2022)
 - Set up Multiplayer Implementation of the game in UNITY using Photon Networking technologies to allow a patient and their psychologist play the game together
 - Manipulated C# scripts to control the accessibility of levels, modules, and certain tasks within the game depending on if the player is the psychologist or the patient.
 
-Projects:
-
