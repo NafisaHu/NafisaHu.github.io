@@ -5,4 +5,4 @@ title: "Projects"
 
 Priorly Time Tracker 
 
-Created a 
+Developed Web application helping employees track their digital workloads and productivity
