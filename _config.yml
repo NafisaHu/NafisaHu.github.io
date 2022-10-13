@@ -16,10 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "background.md", title: "Background"}
+  - {file: "experience.md", title: "Experience"}
+  - {file: "projects.md", title: "Projects"}
   - {file: "/NafisaHussain_Resume_Fall2022.docx.pdf", title: "Resume"}
-  - {file: "README.md", title: "Projects"}
-  - {file: "README.md", title: "Contact"}
+  - {file: "contact.md", title: "Contact"}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
