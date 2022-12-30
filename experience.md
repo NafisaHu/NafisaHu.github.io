@@ -3,7 +3,7 @@ layout: page
 title: "Experience"
 ---
 
-CloudBridage Labs - Software Engineer Intern (January 2022 - October 2022)
+CloudBrigade Labs - Software Engineer Intern (January 2022 - October 2022)
 - Worked on integration of 3rd party applications (Zoom, Google Workspace, Harvest, Slack) for data collection into employee productivity web application through succinct Python scripts
 - Wrote and parsed through JSON objects for easy manipulation of data being pipelined to the creation of visualizations/charts representing productivity
 - Automated Oauth 2.0 user authentication for 3rd party applications integrations using AWS Lambda functions and EventBridge rules to store user information in DynamoDB.
