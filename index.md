@@ -9,7 +9,7 @@ I am a graduate student at the [University of California, Santa Cruz](https://ww
 
 
 
-![img](/assets/gradphoto_small.jpg)
+![img](/assets/gradphoto_smaller.jpg)
 <img src="/assets/gradphoto.jpg" alt=“picture” style="height: 40%; width:40%; align:center" />
                                              
 Outside of my academic interests, I enjoy playing volleyball, surfing, listening to podcasts, watching competiton reality TV, and playing board games.
