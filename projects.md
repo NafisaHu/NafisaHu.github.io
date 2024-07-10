@@ -6,7 +6,7 @@ title: "Projects"
 
 Developed ESApet SMS service giving users access to their own virtual emotional support animal. Interaction and conversation was set up through webhooks to Twilio API and Cohere’s command-light model. Applied prompt engineering to ensure safe responses and enable content moderation. Winner of Most Creative Use of Twilio at CruzHacks 2023.
 
-![img](/assets/Screenshot 2024-07-10 at 16.23.)
+![img](/assets/esapet.png)
 
 
 **Priorly Time Tracker (January 2022 - October 2022)**
